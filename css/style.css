@@ -209,6 +209,7 @@ span {
 
 @media only screen and (min-width: 750px) {
   #skillsH3,
+  #skills,
   .biopic {
     display: block;
   }
